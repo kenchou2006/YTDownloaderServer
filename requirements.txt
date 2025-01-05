@@ -1,0 +1,8 @@
+Django
+yt-dlp
+djangorestframework
+django-cors-headers
+gunicorn
+gevent
+selenium
+webdriver_manager
