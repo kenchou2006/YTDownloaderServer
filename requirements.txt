@@ -1,0 +1,6 @@
+Django
+yt-dlp
+djangorestframework
+django-cors-headers
+gunicorn
+gevent
